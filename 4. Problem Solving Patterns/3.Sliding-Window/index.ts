@@ -19,10 +19,9 @@ const mexSubArraySum = (arr: number[], n: number) => {
   }
   return maxSum;
 };
-console.log(mexSubArraySum([1, 2, 5, 2, 8, 1, 5], 2));
-//10
-console.log(mexSubArraySum([1, 2, 5, 2, 8, 1, 5], 4));
-//17
+console.log(mexSubArraySum([1, 2, 5, 2, 8, 1, 5], 2)); //10
+console.log(mexSubArraySum([1, 2, 5, 2, 8, 1, 5], 4)); //17
+// in this solution O(n^2)
 
 // with out sliding window
 
@@ -50,3 +49,4 @@ console.log(mexSubArraySumRefactor([1, 2, 5, 2, 8, 1, 5], 2));
 //10
 console.log(mexSubArraySumRefactor([1, 2, 5, 2, 8, 1, 5], 4));
 //17
+// in this solution O(n)
