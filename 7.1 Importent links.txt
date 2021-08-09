@@ -1,0 +1,15 @@
+web site for seeing the consent or see how the sorts are work..
+https://www.toptal.com/developers/sorting-algorithms
+https://visualgo.net/en/sorting
+
+//////////////////////////////////////////////////
+
+videos i watched for understand sorting concept..
+
+Bubble Sort:
+1. https://youtu.be/18OO361--1E
+2. https://youtu.be/NiyEqLZmngY
+
+Selection Sort: 
+1. https://youtu.be/EdUWyka7kpI
+2. https://www.youtube.com/watch?v=R_f3PJtRqUQ&ab_channel=Codearchery

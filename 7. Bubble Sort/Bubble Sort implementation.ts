@@ -26,3 +26,4 @@ const bubbleSort = (arr: number[]): number[] => {
 console.log(bubbleSort([0, 1, 2, 3, 4, 5, 6, 8, 7]));
 
 //big O of Bubble Sort is O(n^2); but if our data is almost sorted then it will O(n);
+//it is useful when array is almost sorted;
